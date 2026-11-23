@@ -522,11 +522,11 @@ zoom: 0.85
 ### 🚀 DevOps — Cours 1 à 5
 
 <ul class="mt-2 space-y-1.5 list-none p-0">
-<li><a href="https://olivier.barais.fr/devsecops.module1" target="_blank">1 · Introduction DevOps</a></li>
-<li><a href="https://olivier.barais.fr/devsecops.module2" target="_blank">2 · Git &amp; GitFlow</a></li>
-<li><a href="https://olivier.barais.fr/devsecops.module3" target="_blank">3 · Gestion de dépendances</a></li>
-<li><a href="https://olivier.barais.fr/devsecops.module4" target="_blank">4 · CI/CD</a></li>
-<li><a href="https://olivier.barais.fr/devsecops.module5" target="_blank">5 · Conteneurs &amp; images</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module1" target="_blank">1 · Introduction DevOps</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module1/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module2" target="_blank">2 · Git &amp; GitFlow</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module2/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module3" target="_blank">3 · Gestion de dépendances</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module3/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module4" target="_blank">4 · CI/CD</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module4/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module5" target="_blank">5 · Conteneurs &amp; images</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module5/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
 </ul>
 
 </div>
@@ -536,10 +536,10 @@ zoom: 0.85
 ### 🔐 DevSecOps — Cours 6 à 9
 
 <ul class="mt-2 space-y-1.5 list-none p-0">
-<li><a href="https://olivier.barais.fr/devsecops.module6" target="_blank">6 · Incidents &amp; contre-mesures</a></li>
-<li><a href="https://olivier.barais.fr/devsecops.module7" target="_blank">7 · Attaques Supply Chain Open Source</a></li>
-<li><a href="https://olivier.barais.fr/devsecops.module8" target="_blank">8 · Builds reproductibles</a></li>
-<li><a href="https://olivier.barais.fr/devsecops.module9" target="_blank">9 · GNU Guix &amp; environnements</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module6" target="_blank">6 · Incidents &amp; contre-mesures</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module6/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module7" target="_blank">7 · Attaques Supply Chain Open Source</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module7/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module8" target="_blank">8 · Builds reproductibles</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module8/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module9" target="_blank">9 · GNU Guix &amp; environnements</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module9/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
 </ul>
 
 </div>
@@ -551,7 +551,7 @@ zoom: 0.85
 <p class="mt-2">Les nouveaux risques à l'heure de l'agentique.</p>
 
 <ul class="mt-2 space-y-1.5 list-none p-0">
-<li><a href="https://olivier.barais.fr/devsecops.module10" target="_blank">10 · Agentique &amp; risques émergents</a></li>
+<li><a href="https://olivier.barais.fr/devsecops.module10" target="_blank">10 · Agentique &amp; risques émergents</a> — <a href="https://raw.githubusercontent.com/barais/devsecops.module10/refs/heads/master/poly/poly.pdf" target="_blank">poly</a></li>
 </ul>
 
 </div>
