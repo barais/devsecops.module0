@@ -653,13 +653,15 @@ layout: section
 
 # ❓ Questions ?
 
-<div class="mt-6 text-xl opacity-80">
+<div class="mt-8 max-w-2xl mx-auto text-left">
 
-Des questions sur la **supply chain** logicielle, le **DevSecOps** ou les **risques** abordés ?
+**Ressources :**
+
+- 📄 **Poly du cours** : [télécharger le poly (PDF)](https://raw.githubusercontent.com/barais/devsecops.module0/refs/heads/master/poly/poly.pdf)
+- ➡️ **Cours suivant — Cours 1 — DevSecOps : Introduction & Philosophie DevOps** : [https://olivier.barais.fr/devsecops.module1](https://olivier.barais.fr/devsecops.module1)
 
 </div>
 
 <div class="mt-8 text-sm opacity-50">
 Olivier Barais · Module DevSecOps
 </div>
-
