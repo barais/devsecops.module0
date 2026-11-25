@@ -112,6 +112,9 @@ Les développeurs (en particulier open-source) sont par défaut **optimistes**. 
 
 </div>
 
+
+
+
 ---
 layout: two-cols-header
 backgroundSize: contain
@@ -207,7 +210,7 @@ layout: section
 <div>
 <img src="/event_stream_attack.png" class="max-h-8" />
 
-**1,5+ million de téléchargements/semaine**, 1600 paquets dépendants 
+**2+ millions de téléchargements/semaine**, 1600 paquets dépendants 
 
 
 <v-clicks>
@@ -226,7 +229,7 @@ layout: section
 
 ```mermaid {scale: 0.65}
 graph TD
-    A[event-stream<br/>1.5M dl/week] -->|dépend de| B[flatmap-stream<br/>🦠 MALVEILLANT]
+    A[event-stream<br/>2M dl/week] -->|dépend de| B[flatmap-stream<br/>🦠 MALVEILLANT]
     A -->|utilisé par| C[app C]
     A -->|utilisé par| D[copay<br/>Bitcoin wallet 💰]
     A -->|utilisé par| E[app E]
@@ -303,12 +306,11 @@ Réf : [1] snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability
 </div>
 
 ---
-layout: two-cols-header
+layout: two-cols
 ---
 
 # 2020 — SolarWinds : l'attaque qui a tout changé
 
-::left::
 
 
 
@@ -327,6 +329,8 @@ layout: two-cols-header
 
 
 ::right::
+
+<div class="flex items-center justify-center h-full w-full">
 
 ```mermaid {scale: 0.70}
 ---
@@ -348,6 +352,8 @@ graph TD
     style B fill:#dc2626,color:#fff
     style D fill:#f59e0b,color:#000
 ```
+
+</div>
 
 
 <style>
@@ -634,7 +640,7 @@ zoom: 0.85
 
 Un CC sur table
 
-Couvre l'ensemble des 9 cours
+Couvre l'ensemble des 10 cours
 
 </div>
 
