@@ -135,15 +135,22 @@ backgroundSize: contain
 <div class="mt-6 space-y-2 text-sm">
 
 <div v-click class="p-2 bg-red-900/30 rounded">
+
 📅 **Mars 2022** — node-ipc and peacenotwar (CVE-2022-23812)
+
 </div>
 
 <div v-click class="p-2 bg-orange-900/30 rounded">
+
 📅 **Déc. 2021** — Log4Shell (CVE-2021-44228)
+
 </div>
 
+
 <div v-click class="p-2 bg-yellow-900/30 rounded">
+
 📅 **Nov. 2018** — Attack on NPM package event-stream
+
 </div>
 
 </div>
