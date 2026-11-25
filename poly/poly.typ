@@ -135,8 +135,6 @@
   #text(size: 10pt, fill: luma(80))[Professeur des Universités · Université de Rennes]
   #linebreak()
   #text(size: 10pt, fill: luma(80))[IRISA UMR 6074 · Équipe DiverSE · INRIA]
-  #linebreak()
-  #text(size: 10pt, fill: luma(80))[D'après les travaux de B. Combemale]
 
   #v(1cm)
   #text(size: 9pt, fill: luma(100))[Année universitaire 2026–2027]
@@ -229,7 +227,7 @@ Cette section présente, de façon synthétique, plusieurs incidents réels qui 
 
 == Nov. 2018 — Attaque npm : `event-stream`
 
-`event-stream` est un paquet npm utilitaire téléchargé à plus d'*1,5 million de fois par semaine*, utilisé par plus de *1 600 paquets* dépendants.
+`event-stream` est un paquet npm utilitaire téléchargé à plus d'*2 millions de fois par semaine* (selon The Register), utilisé par plus de *1 600 paquets* dépendants.
 
 - Un utilisateur malveillant (`right9control`) a *demandé la propriété* du paquet au mainteneur original et a réussi.
 - Il a ajouté `flatmap-stream` comme *dépendance malveillante*.
@@ -360,7 +358,7 @@ L'UE DevSecOps s'organise en trois grandes parties, réparties sur dix cours, co
   block(fill: rgb("#f5f3ff"), stroke: 1pt + rgb("#7c3aed"), radius: 4pt, inset: 10pt)[
     *📝 Contrôle de Connaissances* \
     #v(4pt)
-    Un CC sur table, couvrant l'ensemble des 9 cours.
+    Un CC sur table, couvrant l'ensemble des 10 cours.
   ],
   block(fill: rgb("#ecfdf5"), stroke: 1pt + rgb("#059669"), radius: 4pt, inset: 10pt)[
     *🔍 Projet Audit* \
@@ -387,7 +385,7 @@ L'UE DevSecOps s'organise en trois grandes parties, réparties sur dix cours, co
 
 - *OpenSSF — Securing the Open Source Ecosystem* : #link("https://openssf.org")
 - *Snyk — peacenotwar / node-ipc* : #link("https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/")
-- *The Register — incident event-stream* : #link("https://www.theregister.com/2018/11/26/npm_reco_bitcoin_stealer/")
-- *CISA — SolarWinds Advisory AA21-008A* : #link("https://www.cisa.gov/uscert/ncas/alerts/aa21-008a")
+- *The Register — incident event-stream* : #link("https://www.theregister.com/security/2018/11/26/check-your-repos-crypto-coin-stealing-code-sneaks-into-fairly-popular-npm-lib-2m-downloads-per-week/732879")
+- *CISA — SolarWinds Advisory AA20-352A* : #link("https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-352a")
 - *CVE-2024-3094 — XZ Utils Backdoor* : la documentation officielle CVE et les analyses techniques (Andres Freund, PostgreSQL) fournissent le détail de l'attaque.
-- *Vulcan / VOYAGER18 — AI Package Hallucination* : étude sur les recommandations de paquets par les LLM.
+- *Vulcan / VOYAGER18 — AI Package Hallucination* : #link("https://www.scworld.com/news/ai-package-hallucination-malicious-code-developer-environments") — étude sur les recommandations de paquets par les LLM.
